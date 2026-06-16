@@ -1,42 +1,111 @@
-# DLP-data-loss-prevention-tool-
+# SecureProxy
 
-# Aegis Shield — Literal Network Lockdown
+Professional HTTP/HTTPS Data Loss Prevention (DLP) engine built on [mitmproxy](https://mitmproxy.org). Intercepts decrypted traffic locally, scans for sensitive data with risk scoring, and blocks or quarantines high-risk exfiltration attempts.
 
-Aegis is a multi-threaded background network shield built to stop token stealers from cooking your PC. It sits in the middle of your network stack using mitmproxy and a local Flask dashboard, waiting to drop a massive ban hammer on malicious webhooks before they can even leave your computer. 
+## Features
 
-If a stealer tries to exfil your data to Discord, Aegis says "not today" and deletes the packet in a millisecond fr fr.
+### Detection Engine
+- Discord webhook & token detection
+- Roblox `.ROBLOSECURITY` cookie detection
+- AWS, GitHub, JWT, SSH private keys, generic API keys
+- Password leaks, emails, Luhn-validated credit cards
+- OAuth tokens, session cookies, database dumps
+- Crypto seed phrases, `.env` files, PEM certificates
+- Browser password exports, token dumps
 
-## Why it's Useful
+### Content Parsing
+Parses before scanning: JSON, form data, URL parameters, HTTP headers, cookies, XML, YAML, multipart uploads, GZIP payloads.
 
-* **Instant Intercept:** Captures outbound loopback traffic instantly. The stealer thinks it's talking to Discord, but it’s actually talking to a wall.
-* **Stealer Proof:** Tested against live info-stealers. It leaves attackers with empty logs and a broken script while your tokens stay locked down.
-* **Ghost Mode:** Compiles into a single, windowless .exe that runs completely hidden in the background so malware doesn't even know it's there.
-* **Clean UI:** Has a local dark-mode Flask web dashboard (http://127.0.0.1:8765) so you can watch live traffic scroll past in real-time.
-* **Custom Rules:** Uses a simple rules.yaml file so you can block any shady domain or regex pattern on the fly.
+### File Inspection
+Inspects ZIP, TXT, CSV, JSON uploads/downloads. Advanced support for PDF, DOCX, XLSX.
 
----
+### Risk Scoring
+Rules contribute weighted scores (configurable in `config/rules.yaml`):
+- **100+** → block (403)
+- **70+** → quarantine (451)
+- **40+** → alert (logged + console)
 
-## How It Works (The Architecture)
+### Correlation Engine
+Multi-signal detection (e.g. Discord webhook + password + ZIP = CRITICAL).
 
-Aegis uses layered defense to act as a massive perimeter wall:
+### Anti-Evasion
+Decodes Base64, hex, and URL-encoded blobs before scanning.
 
-1. **The Hook:** It automatically configures the Windows system proxy on boot, rerouting all traffic straight into the python engine.
-2. **The Scan:** It checks the outbound URL against your rules.yaml file.
-3. **The Drop:** If it sees a blocked signature (like a Discord webhook link), it drops the connection instantly. The attacker gets zero cookies, zero passwords, and a completely blank log.
+### Domain Intelligence
+Allowlist, watchlist, and reputation scoring for file-sharing, webhooks, and C2 domains.
 
----
+### Logging & Dashboard
+Structured JSON logs with secret redaction. Live web dashboard at `http://127.0.0.1:8765`.
 
-## The Config (rules.yaml)
+## Quick Start
 
-Drop your blocklists and flagged keywords right here:
+```bash
+cd SecureProxy
+python -m venv .venv
+.venv\Scripts\activate        # Windows
+pip install -r requirements.txt
+
+# Run the proxy
+mitmdump -s Secure-Proxy.py
+
+# Configure your system/browser to use proxy 127.0.0.1:8080
+# Install mitmproxy CA cert for HTTPS decryption
+```
+
+## Configuration
+
+Edit `config/rules.yaml` to tune rules, scores, thresholds, domains, and correlations without changing code.
 
 ```yaml
-# Aegis Threat Matrix Config
-block_domains:
-  - "[discord.com/api/webhooks](https://discord.com/api/webhooks)"
-  - "shady-exfil-domain.xyz"
+rules:
+  discord_token:
+    severity: critical
+    score: 60
 
-flag_keywords:
-  - "token"
-  - "cookie"
-  - "passwords"
+thresholds:
+  block: 100
+  quarantine: 70
+  alert: 40
+```
+
+Override config path:
+```bash
+set SECUREPROXY_CONFIG=C:\path\to\custom_rules.yaml
+mitmdump -s Secure-Proxy.py
+```
+
+## Testing
+
+```bash
+pytest -v
+```
+
+Sample fixtures in `tests/samples/` cover Discord tokens, AWS keys, Roblox cookies, and password dumps.
+
+## Project Structure
+
+```
+SecureProxy/
+├── Secure-Proxy.py          # mitmproxy entry point
+├── config/rules.yaml        # Detection rules & thresholds
+├── secureproxy/
+│   ├── addon.py             # Request + response hooks
+│   ├── detector.py          # Core scan engine + file inspector
+│   ├── parser.py            # Content parsing
+│   ├── scorer.py            # Risk scoring
+│   ├── correlator.py        # Multi-signal correlation
+│   ├── domains.py           # Domain intelligence
+│   ├── evasion.py           # Anti-evasion decoding
+│   ├── logger.py            # Async structured logging
+│   └── stats.py             # Runtime statistics
+├── dashboard/server.py      # Live web dashboard
+└── tests/                   # pytest suite + samples
+```
+
+## Response Inspection
+
+Both `request()` and `response()` hooks are active. Downloads containing credentials, malware payloads, or suspicious content are scored the same way as uploads.
+
+## License
+
+For authorized security research and personal DLP use only. Ensure you have permission to intercept traffic on monitored systems.

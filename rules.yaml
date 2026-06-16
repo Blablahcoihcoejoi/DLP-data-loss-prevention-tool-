@@ -1,0 +1,244 @@
+# SecureProxy Detection Rules & Risk Scoring
+# severity: critical | high | medium | low
+# score: contributes to cumulative risk score
+
+rules:
+  discord_webhook:
+    enabled: true
+    severity: critical
+    score: 40
+    description: Discord webhook API endpoint
+
+  discord_token:
+    enabled: true
+    severity: critical
+    score: 60
+    description: Discord authentication token
+
+  roblox_cookie:
+    enabled: true
+    severity: critical
+    score: 55
+    description: Roblox .ROBLOSECURITY session cookie
+
+  aws_key:
+    enabled: true
+    severity: high
+    score: 50
+    description: AWS access key ID
+
+  github_token:
+    enabled: true
+    severity: high
+    score: 45
+    description: GitHub personal access token
+
+  jwt:
+    enabled: true
+    severity: medium
+    score: 30
+    description: JSON Web Token
+
+  ssh_private_key:
+    enabled: true
+    severity: critical
+    score: 70
+    description: SSH/RSA/EC private key material
+
+  generic_api_key:
+    enabled: true
+    severity: medium
+    score: 25
+    description: Generic API key patterns
+
+  password_leak:
+    enabled: true
+    severity: high
+    score: 50
+    description: Plaintext password in request body or URL
+
+  email_address:
+    enabled: true
+    severity: low
+    score: 5
+    description: Email address (informational)
+
+  credit_card:
+    enabled: true
+    severity: critical
+    score: 55
+    description: Credit card number (Luhn validated)
+
+  oauth_token:
+    enabled: true
+    severity: high
+    score: 35
+    description: OAuth access/refresh token
+
+  session_cookie:
+    enabled: true
+    severity: medium
+    score: 20
+    description: Session cookie values
+
+  database_dump:
+    enabled: true
+    severity: critical
+    score: 65
+    description: SQL/database dump indicators
+
+  crypto_seed_phrase:
+    enabled: true
+    severity: critical
+    score: 75
+    description: Cryptocurrency wallet seed phrase
+
+  env_file:
+    enabled: true
+    severity: high
+    score: 40
+    description: .env file contents or patterns
+
+  pem_certificate:
+    enabled: true
+    severity: medium
+    score: 15
+    description: PEM certificate or key block
+
+  browser_password_export:
+    enabled: true
+    severity: critical
+    score: 60
+    description: Browser password export format
+
+  token_dump:
+    enabled: true
+    severity: critical
+    score: 55
+    description: Bulk token dump file
+
+  base64_encoded_secret:
+    enabled: true
+    severity: medium
+    score: 20
+    description: Base64-encoded secret material
+
+  hex_encoded_secret:
+    enabled: true
+    severity: medium
+    score: 20
+    description: Hex-encoded secret material
+
+  url_encoded_secret:
+    enabled: true
+    severity: medium
+    score: 15
+    description: URL-encoded secret material
+
+# Risk thresholds
+thresholds:
+  block: 100
+  quarantine: 70
+  alert: 40
+
+# Body size limits (bytes)
+body_limits:
+  scan_max: 10485760   # 10 MB - hard cap
+  warn_max: 5242880    # 5 MB - warn
+  default_max: 1048576 # 1 MB - default scan limit
+
+# Domain intelligence
+domains:
+  allowlist:
+    - github.com
+    - api.github.com
+    - google.com
+    - googleapis.com
+    - microsoft.com
+    - login.microsoftonline.com
+    - outlook.com
+    - live.com
+
+  watchlist:
+    - discord.com
+    - discordapp.com
+    - paste.ee
+    - pastebin.com
+    - anonfiles.com
+    - gofile.io
+    - transfer.sh
+    - webhook.site
+    - requestbin.com
+
+  reputation:
+    file_sharing:
+      - gofile.io
+      - anonfiles.com
+      - transfer.sh
+      - wetransfer.com
+      - mega.nz
+    webhook_services:
+      - discord.com
+      - discordapp.com
+      - webhook.site
+      - hooks.slack.com
+    malware_c2:
+      - ngrok.io
+      - burpcollaborator.net
+
+# Correlation rules (multi-signal = higher risk)
+correlations:
+  - name: stealer_exfiltration
+    description: Discord webhook + credential file upload
+    signals:
+      - discord_webhook
+      - password_leak
+    bonus_score: 50
+    severity: critical
+
+  - name: roblox_account_theft
+    description: Roblox cookie + Discord webhook
+    signals:
+      - roblox_cookie
+      - discord_webhook
+    bonus_score: 45
+    severity: critical
+
+  - name: zip_credential_exfil
+    description: ZIP upload containing credentials to webhook
+    signals:
+      - discord_webhook
+      - token_dump
+    bonus_score: 40
+    severity: critical
+
+  - name: token_dump_exfil
+    description: Token dump + file sharing destination
+    signals:
+      - token_dump
+      - discord_webhook
+    bonus_score: 35
+    severity: critical
+
+# Logging
+logging:
+  file: logs/secureproxy_alerts.log
+  async: true
+  redact: true
+  redact_keep_chars: 4
+
+# Alerting (optional)
+alerting:
+  email:
+    enabled: false
+    smtp_host: ""
+    smtp_port: 587
+    from: ""
+    to: []
+  local_notifications: true
+
+# Dashboard
+dashboard:
+  enabled: true
+  host: "127.0.0.1"
+  port: 8765

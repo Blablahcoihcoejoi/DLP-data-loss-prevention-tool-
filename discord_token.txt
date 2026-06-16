@@ -1,0 +1,2 @@
+# Sample Discord token (fake — for testing only)
+MFA_TOKEN=NjA4NzY5NDU2Nzg5MDEyMzQ1.GhIjKl.MnOpQrStUvWxYzAbCdEfGhIjKlMnOpQrStUvWx

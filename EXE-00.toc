@@ -1,0 +1,2058 @@
+('C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+ 'PROXY\\Aegis\\dist\\run_aegis.exe',
+ False,
+ False,
+ False,
+ 'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+ 'PROXY\\Aegis\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+ 'PROXY\\Aegis\\build\\run_aegis\\run_aegis.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\build\\run_aegis\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\build\\run_aegis\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\build\\run_aegis\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\build\\run_aegis\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\build\\run_aegis\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\build\\run_aegis\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_cryptography_openssl',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_cryptography_openssl.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('run_aegis',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE PROXY\\Aegis\\run_aegis.py',
+   'PYSOURCE'),
+  ('mitmproxy_windows\\WinDivert64.sys',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_windows\\WinDivert64.sys',
+   'BINARY'),
+  ('mitmproxy_windows\\windows-redirector.exe',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_windows\\windows-redirector.exe',
+   'BINARY'),
+  ('mitmproxy_windows\\WinDivert.dll',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_windows\\WinDivert.dll',
+   'BINARY'),
+  ('pydivert\\windivert_dll\\WinDivert32.sys',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\pydivert\\windivert_dll\\WinDivert32.sys',
+   'BINARY'),
+  ('pydivert\\windivert_dll\\WinDivert64.dll',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\pydivert\\windivert_dll\\WinDivert64.dll',
+   'BINARY'),
+  ('pydivert\\windivert_dll\\WinDivert32.dll',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\pydivert\\windivert_dll\\WinDivert32.dll',
+   'BINARY'),
+  ('pydivert\\windivert_dll\\WinDivert64.sys',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\pydivert\\windivert_dll\\WinDivert64.sys',
+   'BINARY'),
+  ('python313.dll',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
+   'BINARY'),
+  ('unicodedata.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp313-win_amd64.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\_cffi_backend.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('bcrypt\\_bcrypt.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\bcrypt\\_bcrypt.pyd',
+   'EXTENSION'),
+  ('_brotli.cp313-win_amd64.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\_brotli.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('81d243bd2c585b0f4821__mypyc.cp313-win_amd64.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\81d243bd2c585b0f4821__mypyc.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\cd.cp313-win_amd64.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\charset_normalizer\\cd.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp313-win_amd64.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\charset_normalizer\\md.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('_argon2_cffi_bindings\\_ffi.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\_argon2_cffi_bindings\\_ffi.pyd',
+   'EXTENSION'),
+  ('tornado\\speedups.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\tornado\\speedups.pyd',
+   'EXTENSION'),
+  ('mitmproxy_rs\\mitmproxy_rs.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\mitmproxy_rs.pyd',
+   'EXTENSION'),
+  ('aioquic\\_crypto.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\aioquic\\_crypto.pyd',
+   'EXTENSION'),
+  ('pylsqpack\\_binding.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\pylsqpack\\_binding.pyd',
+   'EXTENSION'),
+  ('aioquic\\_buffer.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\aioquic\\_buffer.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('zstandard\\_cffi.cp313-win_amd64.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\zstandard\\_cffi.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('zstandard\\backend_c.cp313-win_amd64.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\zstandard\\backend_c.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp313-win_amd64.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\markupsafe\\_speedups.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('yaml\\_yaml.cp313-win_amd64.pyd',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\yaml\\_yaml.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\python3.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('Secure-Proxy.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE PROXY\\Aegis\\Secure-Proxy.py',
+   'DATA'),
+  ('config\\rules.yaml',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\config\\rules.yaml',
+   'DATA'),
+  ('dashboard\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\dashboard\\__init__.py',
+   'DATA'),
+  ('dashboard\\__pycache__\\__init__.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\dashboard\\__pycache__\\__init__.cpython-313.pyc',
+   'DATA'),
+  ('dashboard\\__pycache__\\server.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\dashboard\\__pycache__\\server.cpython-313.pyc',
+   'DATA'),
+  ('dashboard\\server.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\dashboard\\server.py',
+   'DATA'),
+  ('mitmproxy-12.2.3.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy-12.2.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('mitmproxy-12.2.3.dist-info\\LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy-12.2.3.dist-info\\LICENSE',
+   'DATA'),
+  ('mitmproxy-12.2.3.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy-12.2.3.dist-info\\METADATA',
+   'DATA'),
+  ('mitmproxy-12.2.3.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy-12.2.3.dist-info\\RECORD',
+   'DATA'),
+  ('mitmproxy-12.2.3.dist-info\\REQUESTED',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy-12.2.3.dist-info\\REQUESTED',
+   'DATA'),
+  ('mitmproxy-12.2.3.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy-12.2.3.dist-info\\WHEEL',
+   'DATA'),
+  ('mitmproxy-12.2.3.dist-info\\entry_points.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy-12.2.3.dist-info\\entry_points.txt',
+   'DATA'),
+  ('mitmproxy-12.2.3.dist-info\\top_level.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy-12.2.3.dist-info\\top_level.txt',
+   'DATA'),
+  ('mitmproxy\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\addonmanager.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addonmanager.py',
+   'DATA'),
+  ('mitmproxy\\addons\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\addons\\anticache.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\anticache.py',
+   'DATA'),
+  ('mitmproxy\\addons\\anticomp.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\anticomp.py',
+   'DATA'),
+  ('mitmproxy\\addons\\asgiapp.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\asgiapp.py',
+   'DATA'),
+  ('mitmproxy\\addons\\block.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\block.py',
+   'DATA'),
+  ('mitmproxy\\addons\\blocklist.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\blocklist.py',
+   'DATA'),
+  ('mitmproxy\\addons\\browser.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\browser.py',
+   'DATA'),
+  ('mitmproxy\\addons\\clientplayback.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\clientplayback.py',
+   'DATA'),
+  ('mitmproxy\\addons\\command_history.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\command_history.py',
+   'DATA'),
+  ('mitmproxy\\addons\\comment.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\comment.py',
+   'DATA'),
+  ('mitmproxy\\addons\\core.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\core.py',
+   'DATA'),
+  ('mitmproxy\\addons\\cut.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\cut.py',
+   'DATA'),
+  ('mitmproxy\\addons\\disable_h2c.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\disable_h2c.py',
+   'DATA'),
+  ('mitmproxy\\addons\\dns_resolver.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\dns_resolver.py',
+   'DATA'),
+  ('mitmproxy\\addons\\dumper.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\dumper.py',
+   'DATA'),
+  ('mitmproxy\\addons\\errorcheck.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\errorcheck.py',
+   'DATA'),
+  ('mitmproxy\\addons\\eventstore.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\eventstore.py',
+   'DATA'),
+  ('mitmproxy\\addons\\export.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\export.py',
+   'DATA'),
+  ('mitmproxy\\addons\\intercept.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\intercept.py',
+   'DATA'),
+  ('mitmproxy\\addons\\keepserving.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\keepserving.py',
+   'DATA'),
+  ('mitmproxy\\addons\\maplocal.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\maplocal.py',
+   'DATA'),
+  ('mitmproxy\\addons\\mapremote.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\mapremote.py',
+   'DATA'),
+  ('mitmproxy\\addons\\modifybody.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\modifybody.py',
+   'DATA'),
+  ('mitmproxy\\addons\\modifyheaders.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\modifyheaders.py',
+   'DATA'),
+  ('mitmproxy\\addons\\next_layer.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\next_layer.py',
+   'DATA'),
+  ('mitmproxy\\addons\\onboarding.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboarding.py',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\static\\bootstrap.min.css',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\static\\bootstrap.min.css',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\static\\images\\favicon.ico',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\static\\images\\favicon.ico',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\static\\images\\mitmproxy-long.png',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\static\\images\\mitmproxy-long.png',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\static\\mitmproxy.css',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\static\\mitmproxy.css',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\templates\\icons\\android-brands.svg',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\templates\\icons\\android-brands.svg',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\templates\\icons\\apple-brands.svg',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\templates\\icons\\apple-brands.svg',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\templates\\icons\\certificate-solid.svg',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\templates\\icons\\certificate-solid.svg',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\templates\\icons\\firefox-browser-brands.svg',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\templates\\icons\\firefox-browser-brands.svg',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\templates\\icons\\linux-brands.svg',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\templates\\icons\\linux-brands.svg',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\templates\\icons\\windows-brands.svg',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\templates\\icons\\windows-brands.svg',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\templates\\index.html',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\templates\\index.html',
+   'DATA'),
+  ('mitmproxy\\addons\\onboardingapp\\templates\\layout.html',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\onboardingapp\\templates\\layout.html',
+   'DATA'),
+  ('mitmproxy\\addons\\proxyauth.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\proxyauth.py',
+   'DATA'),
+  ('mitmproxy\\addons\\proxyserver.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\proxyserver.py',
+   'DATA'),
+  ('mitmproxy\\addons\\readfile.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\readfile.py',
+   'DATA'),
+  ('mitmproxy\\addons\\save.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\save.py',
+   'DATA'),
+  ('mitmproxy\\addons\\savehar.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\savehar.py',
+   'DATA'),
+  ('mitmproxy\\addons\\script.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\script.py',
+   'DATA'),
+  ('mitmproxy\\addons\\server_side_events.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\server_side_events.py',
+   'DATA'),
+  ('mitmproxy\\addons\\serverplayback.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\serverplayback.py',
+   'DATA'),
+  ('mitmproxy\\addons\\stickyauth.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\stickyauth.py',
+   'DATA'),
+  ('mitmproxy\\addons\\stickycookie.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\stickycookie.py',
+   'DATA'),
+  ('mitmproxy\\addons\\strip_dns_https_records.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\strip_dns_https_records.py',
+   'DATA'),
+  ('mitmproxy\\addons\\termlog.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\termlog.py',
+   'DATA'),
+  ('mitmproxy\\addons\\tlsconfig.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\tlsconfig.py',
+   'DATA'),
+  ('mitmproxy\\addons\\update_alt_svc.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\update_alt_svc.py',
+   'DATA'),
+  ('mitmproxy\\addons\\upstream_auth.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\upstream_auth.py',
+   'DATA'),
+  ('mitmproxy\\addons\\view.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\addons\\view.py',
+   'DATA'),
+  ('mitmproxy\\certs.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\certs.py',
+   'DATA'),
+  ('mitmproxy\\command.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\command.py',
+   'DATA'),
+  ('mitmproxy\\command_lexer.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\command_lexer.py',
+   'DATA'),
+  ('mitmproxy\\connection.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\connection.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_api.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_api.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_compat.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_compat.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_registry.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_registry.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_utils.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_utils.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_css.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_css.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_dns.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_dns.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_graphql.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_graphql.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_http3.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_http3.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_image\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_image\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_image\\image_parser.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_image\\image_parser.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_image\\view.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_image\\view.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_javascript.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_javascript.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_json.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_json.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_mqtt.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_mqtt.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_multipart.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_multipart.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_query.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_query.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_raw.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_raw.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_socketio.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_socketio.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_urlencoded.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_urlencoded.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_wbxml.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_wbxml.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_xml_html.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_xml_html.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\_view_zip.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\_view_zip.py',
+   'DATA'),
+  ('mitmproxy\\contentviews\\base.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contentviews\\base.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\README.md',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\README.md',
+   'DATA'),
+  ('mitmproxy\\contrib\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\click\\LICENSE.BSD-3',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\click\\LICENSE.BSD-3',
+   'DATA'),
+  ('mitmproxy\\contrib\\click\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\click\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\imghdr.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\imghdr.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\LICENSE',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\README.md',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\README.md',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\dtls_client_hello.ksy',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\dtls_client_hello.ksy',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\dtls_client_hello.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\dtls_client_hello.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\exif.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\exif.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\gif.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\gif.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\google_protobuf.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\google_protobuf.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\ico.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\ico.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\jpeg.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\jpeg.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\make.sh',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\make.sh',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\png.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\png.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\tls_client_hello.ksy',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\tls_client_hello.ksy',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\tls_client_hello.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\tls_client_hello.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\kaitaistruct\\vlq_base128_le.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\kaitaistruct\\vlq_base128_le.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\wbxml\\ASCommandResponse.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\wbxml\\ASCommandResponse.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\wbxml\\ASWBXML.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\wbxml\\ASWBXML.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\wbxml\\ASWBXMLByteQueue.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\wbxml\\ASWBXMLByteQueue.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\wbxml\\ASWBXMLCodePage.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\wbxml\\ASWBXMLCodePage.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\wbxml\\GlobalTokens.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\wbxml\\GlobalTokens.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\wbxml\\InvalidDataException.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\wbxml\\InvalidDataException.py',
+   'DATA'),
+  ('mitmproxy\\contrib\\wbxml\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\contrib\\wbxml\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\coretypes\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\coretypes\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\coretypes\\bidi.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\coretypes\\bidi.py',
+   'DATA'),
+  ('mitmproxy\\coretypes\\multidict.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\coretypes\\multidict.py',
+   'DATA'),
+  ('mitmproxy\\coretypes\\serializable.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\coretypes\\serializable.py',
+   'DATA'),
+  ('mitmproxy\\ctx.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\ctx.py',
+   'DATA'),
+  ('mitmproxy\\dns.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\dns.py',
+   'DATA'),
+  ('mitmproxy\\eventsequence.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\eventsequence.py',
+   'DATA'),
+  ('mitmproxy\\exceptions.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\exceptions.py',
+   'DATA'),
+  ('mitmproxy\\flow.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\flow.py',
+   'DATA'),
+  ('mitmproxy\\flowfilter.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\flowfilter.py',
+   'DATA'),
+  ('mitmproxy\\hooks.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\hooks.py',
+   'DATA'),
+  ('mitmproxy\\http.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\http.py',
+   'DATA'),
+  ('mitmproxy\\io\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\io\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\io\\compat.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\io\\compat.py',
+   'DATA'),
+  ('mitmproxy\\io\\har.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\io\\har.py',
+   'DATA'),
+  ('mitmproxy\\io\\io.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\io\\io.py',
+   'DATA'),
+  ('mitmproxy\\io\\tnetstring.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\io\\tnetstring.py',
+   'DATA'),
+  ('mitmproxy\\log.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\log.py',
+   'DATA'),
+  ('mitmproxy\\master.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\master.py',
+   'DATA'),
+  ('mitmproxy\\net\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\net\\check.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\check.py',
+   'DATA'),
+  ('mitmproxy\\net\\dns\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\dns\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\net\\dns\\classes.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\dns\\classes.py',
+   'DATA'),
+  ('mitmproxy\\net\\dns\\domain_names.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\dns\\domain_names.py',
+   'DATA'),
+  ('mitmproxy\\net\\dns\\https_records.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\dns\\https_records.py',
+   'DATA'),
+  ('mitmproxy\\net\\dns\\op_codes.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\dns\\op_codes.py',
+   'DATA'),
+  ('mitmproxy\\net\\dns\\response_codes.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\dns\\response_codes.py',
+   'DATA'),
+  ('mitmproxy\\net\\dns\\types.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\dns\\types.py',
+   'DATA'),
+  ('mitmproxy\\net\\encoding.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\encoding.py',
+   'DATA'),
+  ('mitmproxy\\net\\free_port.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\free_port.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\cookies.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\cookies.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\headers.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\headers.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\http1\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\http1\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\http1\\assemble.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\http1\\assemble.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\http1\\read.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\http1\\read.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\multipart.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\multipart.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\status_codes.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\status_codes.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\url.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\url.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\user_agents.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\user_agents.py',
+   'DATA'),
+  ('mitmproxy\\net\\http\\validate.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\http\\validate.py',
+   'DATA'),
+  ('mitmproxy\\net\\local_ip.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\local_ip.py',
+   'DATA'),
+  ('mitmproxy\\net\\server_spec.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\server_spec.py',
+   'DATA'),
+  ('mitmproxy\\net\\tls.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\net\\tls.py',
+   'DATA'),
+  ('mitmproxy\\options.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\options.py',
+   'DATA'),
+  ('mitmproxy\\optmanager.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\optmanager.py',
+   'DATA'),
+  ('mitmproxy\\platform\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\platform\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\platform\\linux.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\platform\\linux.py',
+   'DATA'),
+  ('mitmproxy\\platform\\openbsd.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\platform\\openbsd.py',
+   'DATA'),
+  ('mitmproxy\\platform\\osx.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\platform\\osx.py',
+   'DATA'),
+  ('mitmproxy\\platform\\pf.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\platform\\pf.py',
+   'DATA'),
+  ('mitmproxy\\platform\\windows.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\platform\\windows.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\commands.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\commands.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\context.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\context.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\events.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\events.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layer.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layer.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\dns.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\dns.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\_base.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\_base.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\_events.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\_events.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\_hooks.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\_hooks.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\_http1.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\_http1.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\_http2.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\_http2.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\_http3.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\_http3.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\_http_h2.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\_http_h2.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\_http_h3.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\_http_h3.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\http\\_upstream_proxy.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\http\\_upstream_proxy.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\modes.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\modes.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\quic\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\quic\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\quic\\_client_hello_parser.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\quic\\_client_hello_parser.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\quic\\_commands.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\quic\\_commands.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\quic\\_events.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\quic\\_events.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\quic\\_hooks.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\quic\\_hooks.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\quic\\_raw_layers.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\quic\\_raw_layers.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\quic\\_stream_layers.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\quic\\_stream_layers.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\tcp.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\tcp.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\tls.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\tls.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\udp.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\udp.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\layers\\websocket.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\layers\\websocket.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\mode_servers.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\mode_servers.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\mode_specs.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\mode_specs.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\server.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\server.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\server_hooks.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\server_hooks.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\tunnel.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\tunnel.py',
+   'DATA'),
+  ('mitmproxy\\proxy\\utils.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\proxy\\utils.py',
+   'DATA'),
+  ('mitmproxy\\py.typed',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\py.typed',
+   'DATA'),
+  ('mitmproxy\\script\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\script\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\script\\concurrent.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\script\\concurrent.py',
+   'DATA'),
+  ('mitmproxy\\tcp.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tcp.py',
+   'DATA'),
+  ('mitmproxy\\test\\taddons.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\test\\taddons.py',
+   'DATA'),
+  ('mitmproxy\\test\\tflow.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\test\\tflow.py',
+   'DATA'),
+  ('mitmproxy\\test\\tutils.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\test\\tutils.py',
+   'DATA'),
+  ('mitmproxy\\tls.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tls.py',
+   'DATA'),
+  ('mitmproxy\\tools\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\tools\\cmdline.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\cmdline.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\commander\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\commander\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\commander\\commander.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\commander\\commander.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\commandexecutor.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\commandexecutor.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\commands.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\commands.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\common.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\common.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\consoleaddons.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\consoleaddons.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\defaultkeys.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\defaultkeys.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\eventlog.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\eventlog.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\flowdetailview.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\flowdetailview.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\flowlist.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\flowlist.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\flowview.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\flowview.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\grideditor\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\grideditor\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\grideditor\\base.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\grideditor\\base.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\grideditor\\col_bytes.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\grideditor\\col_bytes.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\grideditor\\col_subgrid.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\grideditor\\col_subgrid.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\grideditor\\col_text.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\grideditor\\col_text.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\grideditor\\col_viewany.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\grideditor\\col_viewany.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\grideditor\\editors.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\grideditor\\editors.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\help.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\help.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\keybindings.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\keybindings.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\keymap.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\keymap.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\layoutwidget.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\layoutwidget.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\master.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\master.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\options.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\options.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\overlay.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\overlay.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\palettes.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\palettes.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\quickhelp.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\quickhelp.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\searchable.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\searchable.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\signals.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\signals.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\statusbar.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\statusbar.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\tabs.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\tabs.py',
+   'DATA'),
+  ('mitmproxy\\tools\\console\\window.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\console\\window.py',
+   'DATA'),
+  ('mitmproxy\\tools\\dump.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\dump.py',
+   'DATA'),
+  ('mitmproxy\\tools\\main.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\main.py',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\app.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\app.py',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\index.html',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\index.html',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\master.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\master.py',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\favicon.ico',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\favicon.ico',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\fontawesome-webfont-B-jkhYfk.woff2',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\fontawesome-webfont-B-jkhYfk.woff2',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\fontawesome-webfont-CDK5bt4p.woff',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\fontawesome-webfont-CDK5bt4p.woff',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\fontawesome-webfont-CQDK8MU3.ttf',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\fontawesome-webfont-CQDK8MU3.ttf',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\fontawesome-webfont-D13rzr4g.svg',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\fontawesome-webfont-D13rzr4g.svg',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\fontawesome-webfont-G5YE5S7X.eot',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\fontawesome-webfont-G5YE5S7X.eot',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\index-Be7e-cwP.js',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\index-Be7e-cwP.js',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\index-DhPPoJ7G.css',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\index-DhPPoJ7G.css',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\vendor-BS4xPthR.js',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\vendor-BS4xPthR.js',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static\\vendor-Cg3S-P9H.css',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static\\vendor-Cg3S-P9H.css',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\static_viewer.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\static_viewer.py',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\templates\\login.html',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\templates\\login.html',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\web_columns.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\web_columns.py',
+   'DATA'),
+  ('mitmproxy\\tools\\web\\webaddons.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\tools\\web\\webaddons.py',
+   'DATA'),
+  ('mitmproxy\\types.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\types.py',
+   'DATA'),
+  ('mitmproxy\\udp.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\udp.py',
+   'DATA'),
+  ('mitmproxy\\utils\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\utils\\arg_check.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\arg_check.py',
+   'DATA'),
+  ('mitmproxy\\utils\\asyncio_utils.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\asyncio_utils.py',
+   'DATA'),
+  ('mitmproxy\\utils\\data.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\data.py',
+   'DATA'),
+  ('mitmproxy\\utils\\debug.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\debug.py',
+   'DATA'),
+  ('mitmproxy\\utils\\emoji.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\emoji.py',
+   'DATA'),
+  ('mitmproxy\\utils\\htpasswd.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\htpasswd.py',
+   'DATA'),
+  ('mitmproxy\\utils\\human.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\human.py',
+   'DATA'),
+  ('mitmproxy\\utils\\magisk.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\magisk.py',
+   'DATA'),
+  ('mitmproxy\\utils\\pyinstaller\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\pyinstaller\\__init__.py',
+   'DATA'),
+  ('mitmproxy\\utils\\pyinstaller\\hook-mitmproxy.addons.onboardingapp.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\pyinstaller\\hook-mitmproxy.addons.onboardingapp.py',
+   'DATA'),
+  ('mitmproxy\\utils\\pyinstaller\\hook-mitmproxy.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\pyinstaller\\hook-mitmproxy.py',
+   'DATA'),
+  ('mitmproxy\\utils\\pyinstaller\\hook-mitmproxy.tools.web.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\pyinstaller\\hook-mitmproxy.tools.web.py',
+   'DATA'),
+  ('mitmproxy\\utils\\signals.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\signals.py',
+   'DATA'),
+  ('mitmproxy\\utils\\sliding_window.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\sliding_window.py',
+   'DATA'),
+  ('mitmproxy\\utils\\spec.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\spec.py',
+   'DATA'),
+  ('mitmproxy\\utils\\strutils.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\strutils.py',
+   'DATA'),
+  ('mitmproxy\\utils\\typecheck.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\typecheck.py',
+   'DATA'),
+  ('mitmproxy\\utils\\vt_codes.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\utils\\vt_codes.py',
+   'DATA'),
+  ('mitmproxy\\version.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\version.py',
+   'DATA'),
+  ('mitmproxy\\websocket.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy\\websocket.py',
+   'DATA'),
+  ('secureproxy\\__init__.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__init__.py',
+   'DATA'),
+  ('secureproxy\\__pycache__\\__init__.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\__init__.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\addon.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\addon.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\config.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\config.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\console.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\console.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\correlator.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\correlator.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\detector.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\detector.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\domains.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\domains.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\evasion.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\evasion.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\logger.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\logger.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\luhn.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\luhn.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\parser.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\parser.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\patterns.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\patterns.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\redactor.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\redactor.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\scorer.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\scorer.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\__pycache__\\stats.cpython-313.pyc',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\__pycache__\\stats.cpython-313.pyc',
+   'DATA'),
+  ('secureproxy\\addon.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\addon.py',
+   'DATA'),
+  ('secureproxy\\alerting.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\alerting.py',
+   'DATA'),
+  ('secureproxy\\config.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\config.py',
+   'DATA'),
+  ('secureproxy\\console.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\console.py',
+   'DATA'),
+  ('secureproxy\\correlator.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\correlator.py',
+   'DATA'),
+  ('secureproxy\\detector.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\detector.py',
+   'DATA'),
+  ('secureproxy\\domains.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\domains.py',
+   'DATA'),
+  ('secureproxy\\evasion.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\evasion.py',
+   'DATA'),
+  ('secureproxy\\logger.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\logger.py',
+   'DATA'),
+  ('secureproxy\\luhn.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\luhn.py',
+   'DATA'),
+  ('secureproxy\\parser.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\parser.py',
+   'DATA'),
+  ('secureproxy\\patterns.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\patterns.py',
+   'DATA'),
+  ('secureproxy\\redactor.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\redactor.py',
+   'DATA'),
+  ('secureproxy\\scorer.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\scorer.py',
+   'DATA'),
+  ('secureproxy\\stats.py',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\secureproxy\\stats.py',
+   'DATA'),
+  ('cryptography-48.0.1.dist-info\\licenses\\LICENSE.APACHE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography-48.0.1.dist-info\\licenses\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-48.0.1.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography-48.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-48.0.1.dist-info\\sboms\\cryptography-rust.cyclonedx.json',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography-48.0.1.dist-info\\sboms\\cryptography-rust.cyclonedx.json',
+   'DATA'),
+  ('cryptography-48.0.1.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography-48.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-48.0.1.dist-info\\licenses\\LICENSE.BSD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography-48.0.1.dist-info\\licenses\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-48.0.1.dist-info\\sboms\\sbom.json',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography-48.0.1.dist-info\\sboms\\sbom.json',
+   'DATA'),
+  ('cryptography-48.0.1.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography-48.0.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('cryptography-48.0.1.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography-48.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-48.0.1.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\cryptography-48.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('mitmproxy_rs\\dns.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\dns.pyi',
+   'DATA'),
+  ('mitmproxy_rs\\syntax_highlight.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\syntax_highlight.pyi',
+   'DATA'),
+  ('mitmproxy_rs\\udp.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\udp.pyi',
+   'DATA'),
+  ('mitmproxy_rs\\tun.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\tun.pyi',
+   'DATA'),
+  ('mitmproxy_rs\\py.typed',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\py.typed',
+   'DATA'),
+  ('mitmproxy_rs\\wireguard.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\wireguard.pyi',
+   'DATA'),
+  ('mitmproxy_rs\\local.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\local.pyi',
+   'DATA'),
+  ('mitmproxy_rs\\contentviews.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\contentviews.pyi',
+   'DATA'),
+  ('mitmproxy_rs\\__init__.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\__init__.pyi',
+   'DATA'),
+  ('mitmproxy_rs\\process_info.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\process_info.pyi',
+   'DATA'),
+  ('mitmproxy_rs\\certs.pyi',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_rs\\certs.pyi',
+   'DATA'),
+  ('mitmproxy_windows\\LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_windows\\LICENSE',
+   'DATA'),
+  ('mitmproxy_windows\\WinDivert.lib',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_windows\\WinDivert.lib',
+   'DATA'),
+  ('mitmproxy_windows\\WINDIVERT_VERSION',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\mitmproxy_windows\\WINDIVERT_VERSION',
+   'DATA'),
+  ('wcwidth\\py.typed',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\wcwidth\\py.typed',
+   'DATA'),
+  ('publicsuffix2\\public_suffix_list.dat',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\publicsuffix2\\public_suffix_list.dat',
+   'DATA'),
+  ('publicsuffix2\\public_suffix_list.ABOUT',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\publicsuffix2\\public_suffix_list.ABOUT',
+   'DATA'),
+  ('publicsuffix2\\mpl-2.0.LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\publicsuffix2\\mpl-2.0.LICENSE',
+   'DATA'),
+  ('service_identity-26.1.0.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\service_identity-26.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('flask-3.1.3.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('service_identity-26.1.0.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\service_identity-26.1.0.dist-info\\WHEEL',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('argon2_cffi-25.1.0.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\argon2_cffi-25.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('flask-3.1.3.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\METADATA',
+   'DATA'),
+  ('attrs-26.1.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\attrs-26.1.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('werkzeug-3.1.8.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\METADATA',
+   'DATA'),
+  ('argon2_cffi-25.1.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\argon2_cffi-25.1.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('click-8.4.1.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\click-8.4.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('h2-4.3.0.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\h2-4.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('werkzeug-3.1.8.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\RECORD',
+   'DATA'),
+  ('werkzeug-3.1.8.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\INSTALLER',
+   'DATA'),
+  ('click-8.4.1.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\click-8.4.1.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('h2-4.3.0.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\h2-4.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\top_level.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\top_level.txt',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('argon2_cffi-25.1.0.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\argon2_cffi-25.1.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('h2-4.3.0.dist-info\\top_level.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\h2-4.3.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('werkzeug-3.1.8.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\WHEEL',
+   'DATA'),
+  ('flask-3.1.3.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\RECORD',
+   'DATA'),
+  ('werkzeug-3.1.8.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\werkzeug-3.1.8.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('flask-3.1.3.dist-info\\REQUESTED',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\REQUESTED',
+   'DATA'),
+  ('click-8.4.1.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\click-8.4.1.dist-info\\WHEEL',
+   'DATA'),
+  ('attrs-26.1.0.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\attrs-26.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('attrs-26.1.0.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\attrs-26.1.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('argon2_cffi-25.1.0.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\argon2_cffi-25.1.0.dist-info\\WHEEL',
+   'DATA'),
+  ('click-8.4.1.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\click-8.4.1.dist-info\\RECORD',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\LICENSE.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('service_identity-26.1.0.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\service_identity-26.1.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('h2-4.3.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\h2-4.3.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\WHEEL',
+   'DATA'),
+  ('service_identity-26.1.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\service_identity-26.1.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('flask-3.1.3.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\RECORD',
+   'DATA'),
+  ('click-8.4.1.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\click-8.4.1.dist-info\\METADATA',
+   'DATA'),
+  ('h2-4.3.0.dist-info\\RECORD',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\h2-4.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('attrs-26.1.0.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\attrs-26.1.0.dist-info\\WHEEL',
+   'DATA'),
+  ('h2-4.3.0.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\h2-4.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('flask-3.1.3.dist-info\\WHEEL',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\WHEEL',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\METADATA',
+   'DATA'),
+  ('attrs-26.1.0.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\attrs-26.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\INSTALLER',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('service_identity-26.1.0.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\service_identity-26.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('argon2_cffi-25.1.0.dist-info\\METADATA',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\argon2_cffi-25.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('flask-3.1.3.dist-info\\entry_points.txt',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\flask-3.1.3.dist-info\\entry_points.txt',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\build\\run_aegis\\base_library.zip',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1781631845,
+ [('runw.exe',
+   'C:\\Users\\asus\\Downloads\\MY AWSOME SECURE '
+   'PROXY\\Aegis\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\asus\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll')
