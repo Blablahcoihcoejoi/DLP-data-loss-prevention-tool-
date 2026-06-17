@@ -38,10 +38,12 @@ Allowlist, watchlist, and reputation scoring for file-sharing, webhooks, and C2 
 Structured JSON logs with secret redaction. Live web dashboard at `http://127.0.0.1:8765`.
 
 ## Quick Start
+(in administor terminal)
 
 ```bash
 cd SecureProxy
 python -m venv .venv
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 .venv\Scripts\activate        # Windows
 pip install -r requirements.txt
 
